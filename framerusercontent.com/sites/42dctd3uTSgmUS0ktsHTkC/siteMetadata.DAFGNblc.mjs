@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`The biggest portfolio template for modern developers, designers, and creatives who value minute details. Includes 16 pages for projects, case studies, and product pages. Features microinteractions, clean layouts, and dark/light mode with a personal touch.`,robots:`max-image-preview:large`,title:`Onazi Emmanuel's Portfolio`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.DAFGNblc.mjs.map

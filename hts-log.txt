@@ -1,0 +1,45 @@
+HTTrack3.50-0 launched on Thu, 03 Sep 2026 13:26:25 at https://visual-party-702743.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://visual-party-702743.framer.app/ -O1 "C:\Users\imclo\Desktop\Full Onazi Portfolio\Onazi Emmanuel Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:26:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs
+13:26:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/QVMzG5TnQU7QGrYGaSkNHjXqPT0QIxpK-wFgrMvlHag.BP2OIYUJ.mjs
+13:26:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/QPrKXzsvL.BjJjAD9N.mjs
+13:26:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/l9m6FOgV9.cy9_uUJ6.mjs
+13:26:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/shared-lib.dAJyT9oA.mjs
+13:26:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/q26bs7mVI.DIv52JHT.mjs
+13:26:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/qgQawY2go.0YynWebM.mjs
+13:26:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/MfCHVWSN2.xcMHymyF.mjs
+13:26:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/yV37lP5H9.DpYzua6W.mjs
+13:26:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/sypZBOt4g.CHnnRjwh.mjs
+13:26:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/ITpltbwdD.BoaM6WUv.mjs
+13:26:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/u5Nv0tNCa.AkF07-DT.mjs
+13:26:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/v4UHRnhPX.DXxUtZRH.mjs
+13:26:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/bzBuS8EOt.CJv9Wzng.mjs
+13:26:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/NyoU1s0jb.xumBECZO.mjs
+13:26:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/h3TWZl4wEV2LLh7vgbJMx2bknLRhX760550EQ-iSKAo.D_vS6_9N.mjs
+13:26:51	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://visual-party-702743.framer.app/)
+13:26:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/JCxa4HFygRUGa4ole2-na5ZYDUClQ6nOBIAr4Pr2np8.CuSWu1DR.mjs
+13:26:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/G7ngWNJJehVsOK51XLyJRWjIsBA.png?scale-down-to=512&width=1000&height=1000
+13:26:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/G7ngWNJJehVsOK51XLyJRWjIsBA.png?width=1000&height=1000
+13:26:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/IOzxGZzHn.CCuRVVv8.mjs
+13:26:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/ARLhdwaOp.Dw_3Xyx7.mjs
+13:26:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/zMpsiMOLk.CwoAq294.mjs
+13:27:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/r8JmOAquD.BingBMi4.mjs
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/${ct(e (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/e,G.document.baseURI (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/t (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/e,n (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/e (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/e.value (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/${i} (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/r,G.location.href (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/framer.BrAdXYPV.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/writing-listing/e (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/ARLhdwaOp.Dw_3Xyx7.mjs)
+13:27:06	Error: 	"Not Found" (404) at link https://visual-party-702743.framer.app/writing-listing/`./ARLhdwaOp-chunk-default-0.framercms`,`https://framerusercontent.com/modules/yyMMqNMZIoDo2j4UkRhK/8Vij4a7z96WtQEKtz6Hz/ARLhdwaOp.js` (from https://framerusercontent.com/sites/42dctd3uTSgmUS0ktsHTkC/ARLhdwaOp.Dw_3Xyx7.mjs)
+
+HTTrack Website Copier/3.50-0 mirror complete in 41 seconds : 133 links scanned, 119 files written (62345621 bytes overall), 107 files updated [56962817 bytes received at 1389337 bytes/sec], 3400892 bytes transferred using HTTP compression in 45 files, ratio 18%, 4.7 requests per connection
+(11 errors, 23 warnings, 0 messages)
