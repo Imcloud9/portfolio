@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`Portfolio of Onazi Emmanuel, a UI/UX product designer specializing in intuitive digital experiences, design systems, and user research.`,favicon:`https://framerusercontent.com/assets/aYZX58pRQOQlCvDVlbRsdfWUCTs.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7agmrvQXQKvqTpdyAAwejGbmlo.png`,title:`Onazi Emmanuel's Portfolio`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.DsWJ8vip.mjs.map
